@@ -14,13 +14,12 @@ Our project is a LaTex converter, this means that we can convert every mathemati
 ***
 Open the terminal and digit these command lines
 ```
-$ javac Main.java
-$ Main.java
+$ Main.rkt
 ```
-or
+And to execute the webserver 
 
 ```
-$ ./run.sh
+$ ./spaceleaderboard/run.sh
 ```
 
 ## How it works
